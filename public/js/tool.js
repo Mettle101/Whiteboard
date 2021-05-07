@@ -1,5 +1,5 @@
 // connect to socket server
-const socket = io.connect("https://responsivewhiteboard.herokuapp.com/");
+const socket = io.connect('https://responsivewhiteboard.herokuapp.com/');
 // *********************************Basic Setup
 // document => actual html
 

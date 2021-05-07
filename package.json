@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "nodemon express"
+    "start": "node express.js"
   },
   "repository": {
     "type": "git",
