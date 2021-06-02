@@ -1,5 +1,5 @@
 {
-  "name": "pepBoard",
+  "name": "WhiteBoard",
   "version": "1.0.0",
   "description": "",
   "main": "express.js",
@@ -11,15 +11,7 @@
   "scripts": {
     "start": "node express.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Pep-DEV101/PepBoard.git"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Pep-DEV101/PepBoard/issues"
-  },
-  "homepage": "https://github.com/Pep-DEV101/PepBoard#readme"
+  "license": "ISC"
 }
